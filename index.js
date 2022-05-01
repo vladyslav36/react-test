@@ -12,7 +12,7 @@ app.use(fileUpload())
 const PORT = 5001
 
 
-
+console.log('kkk')
 
 
 app.post("/upload", (req, res) => {
