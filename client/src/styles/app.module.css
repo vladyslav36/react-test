@@ -1,0 +1,11 @@
+.image img{
+  width:200px;;
+  
+}
+
+.image{
+  width:100%;
+  display:flex;
+  justify-content: center;
+  
+}
